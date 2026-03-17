@@ -1,5 +1,4 @@
-# 忽略掉数据集、模型权重和临时文件
-*.pth
+# 忽略掉数据集、临时文件
 archive/
 VoiceBank/
 __pycache__/
