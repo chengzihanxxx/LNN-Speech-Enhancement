@@ -11,3 +11,12 @@
 
 ### 1. 环境依赖
 见requirements.txt
+
+## 📂 数据集 (Datasets)
+
+本项目模型在语音增强领域的标准数据集 **VoiceBank + DEMAND** 上进行训练与验证。
+
+### 1. 数据集来源
+* **下载地址：** (https://www.kaggle.com/datasets/jweiqi/voicebank-demand-16k)
+* **内容简介：** 该数据集由干净的人声（VoiceBank）与多种环境噪音（DEMAND，如洗碗声、路边声、音乐、办公室底噪等）合成，包含不同信噪比（SNR）的训练集和测试集。
+
